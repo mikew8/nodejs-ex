@@ -18,6 +18,8 @@
   "repository": {
     "type": "git",
     "url": "http://github.com/openshift/nodejs-ex.git"
+    "httpProxy": "http://:east.byu.edu:3128"
+    "httpsProxy": "https://east.byu.edu:3128"
   },
   "author": "Steve Speicher <sspeiche@gmail.com>",
   "license": "",
